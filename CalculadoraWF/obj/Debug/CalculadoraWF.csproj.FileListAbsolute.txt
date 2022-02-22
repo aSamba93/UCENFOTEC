@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\bin\Debug\CalculadoraWF.exe.config
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\bin\Debug\CalculadoraWF.exe
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\bin\Debug\CalculadoraWF.pdb
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.Properties.Resources.resources
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.exe
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.pdb
+C:\Users\Admin\source\repos\Caso2Calc_AndreRodriguez\CalculadoraWF\obj\Debug\CalculadoraWF.formCalc.resources
